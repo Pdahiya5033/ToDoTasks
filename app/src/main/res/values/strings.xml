@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReportIntent</string>
+    <string name="report_title_hint">type here</string>
+    <string name="report_detail_label">Details</string>
+    <string name="report_resolved_label">Resolved</string>
+    <string name="report_title_label">Title</string>
+    <string name="date_picker_title">Date of reporting</string>
+    <string name="new_report">New Report</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s reports</string>
+</resources>
